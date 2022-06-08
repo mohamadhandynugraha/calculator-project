@@ -1,6 +1,6 @@
-# test-project
+# Calculator-Project
 
-> A Vue.js project
+> Simple calculator Project with element ui
 
 ## Build Setup
 
