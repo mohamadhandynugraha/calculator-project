@@ -1,0 +1,9 @@
+export const APPEND_NUMBER = "APPEND_NUMBER";
+export const CLEAR = "CLEAR";
+export const ADD = "ADD";
+export const SUBTRACT = "SUBTRACT";
+export const MULTIPLY = "MULTIPLY";
+export const DIVIDE = "DIVIDE";
+export const CALCULATE = "CALCULATE";
+export const SET_OPERAND_VALUE = "SET_OPERAND_VALUE";
+export const TOGGLE_SIGN = "TOGGLE_SIGN";
